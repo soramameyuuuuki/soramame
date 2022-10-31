@@ -96,6 +96,7 @@ li {
   width: 32%;
 }
 #bicycle li img{
+  height: 100%;
   object-fit: cover;
 }
 #footer {
